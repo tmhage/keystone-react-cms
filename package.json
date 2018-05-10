@@ -1,0 +1,11 @@
+{
+  "name": "nodekey",
+  "version": "1.0.0",
+  "description": "Keystone JS cms with React",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
